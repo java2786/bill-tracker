@@ -1,0 +1,13 @@
+/**/node_modules/
+/**/kbd/
+/**/data/
+/**/java/
+
+/**/package-lock.json
+/**/.nyc_output/
+/**/yaksha-test-cases.xml
+
+/**/coverage
+
+.~lock.Use Cases - Bill Tracker.xlsx#
+Use Cases - Bill Tracker.xlsx
